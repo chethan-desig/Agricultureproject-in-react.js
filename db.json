@@ -1,0 +1,84 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "NAME": "chethan",
+      "SEEDSNAME": "ragi",
+      "QUANTITY": "5",
+      "PHONE": 9876543211,
+      "DELEVERYADDRESS": "gbd"
+    },
+    {
+      "id": 3225,
+      "NAME": "karthik",
+      "SEEDSNAME": "ragi",
+      "QUANTITY": "3",
+      "PHONE": "90933284849",
+      "DELEVERYADDRESS": "bng"
+    },
+    {
+      "id": 8707,
+      "NAME": "shreye",
+      "SEEDSNAME": "ragi",
+      "QUANTITY": "rice",
+      "PHONE": "7026401173",
+      "DELEVERYADDRESS": "karnataka"
+    },
+    {
+      "id": 3362,
+      "NAME": "shreye",
+      "SEEDSNAME": "ragi",
+      "QUANTITY": "rice",
+      "PHONE": "7026401173",
+      "DELEVERYADDRESS": "karnataka"
+    },
+    {
+      "id": 6253,
+      "NAME": "shreye",
+      "SEEDSNAME": "ragi",
+      "QUANTITY": "rice",
+      "PHONE": "7026401173",
+      "DELEVERYADDRESS": "karnataka"
+    },
+    {
+      "id": 9217,
+      "NAME": "shreye",
+      "SEEDSNAME": "ragi",
+      "QUANTITY": "rice",
+      "PHONE": "7026401173",
+      "DELEVERYADDRESS": "karnataka"
+    },
+    {
+      "id": 5452,
+      "NAME": "harsha",
+      "SEEDSNAME": "ragi",
+      "QUANTITY": "5",
+      "PHONE": "9876543210",
+      "DELEVERYADDRESS": "delhi"
+    },
+    {
+      "id": 4275,
+      "NAME": "name",
+      "MACHINENAME": "tractor",
+      "QUANTITY": "good",
+      "PHONE": "09876543221",
+      "DELEVERYADDRESS": "pune"
+    },
+    {
+      "id": 1201,
+      "NAME": "pppppp",
+      "PASTISIDESNAME": "kfsoigf",
+      "QUANTITY": "good",
+      "PHONE": "09876654679",
+      "DELEVERYADDRESS": "mumbai"
+    },
+    {
+      "id": 4129,
+      "NAME": "",
+      "PASTISIDESNAME": "",
+      "QUANTITY": "",
+      "PHONE": "",
+      "DELEVERYADDRESS": ""
+    }
+  ]
+}
